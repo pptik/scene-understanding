@@ -1,0 +1,201 @@
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\concrt140.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\cvextern.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcp140.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\vcruntime140.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\concrt140.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\cvextern.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\msvcp140.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\vcruntime140.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_world340.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_cpu.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_gpu.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadVC2.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadGC2.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcr100.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\yolov2-tiny-voc.cfg
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\yolov2-tiny-voc.weights
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\voc.names
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.dll
+C:\Users\ASUS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.xml
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\concrt140.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\cvextern.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcp140.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_ffmpeg410_64.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\vcruntime140.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\concrt140.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\cvextern.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\msvcp140.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\opencv_ffmpeg410.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\vcruntime140.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_world340.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_cpu.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_gpu.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadVC2.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadGC2.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcr100.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.xml
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PKL\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\concrt140.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\cvextern.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcp140.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_ffmpeg410_64.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\vcruntime140.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\concrt140.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\cvextern.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\msvcp140.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\opencv_ffmpeg410.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\vcruntime140.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_world340.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_cpu.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_gpu.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadVC2.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadGC2.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcr100.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.xml
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\concrt140.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\cvextern.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcp140.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_ffmpeg410_64.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\vcruntime140.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\concrt140.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\cvextern.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\msvcp140.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\opencv_ffmpeg410.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\vcruntime140.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_world340.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_cpu.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\yolo_cpp_dll_gpu.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadVC2.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\pthreadGC2.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcr100.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Alturos.Yolo.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SUN.resources
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.Drawing.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+D:\code\untuk github\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

@@ -1,0 +1,55 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+import os
+"""
+import os
+import re
+from collections import Counter
+
+def cek(listx=[]):
+    from collections import Counter
+    c=Counter(listx)
+    a=list(c.items())
+    return a
+
+base_path = "D:/Disertasi/Data/indorchoiy/images/"
+filename = "resultlivingroom.txt"
+path_to_file = os.path.join(base_path, filename)
+with open(path_to_file) as fp:
+   line = fp.readline()
+   cnt = 0
+   jo = 0
+   nodetxt="";
+   mylist=[]
+   nestlist=[] 
+   while line:
+       if "Enter" in line:
+           
+           if (jo!=0):
+               nodetxt=nodetxt+"\n";
+               jo=0;
+               m=cek(mylist)
+               print(m)
+               nestlist.append(m)
+               mylist.clear()
+           x=len(line)
+           milisecond=line[x-25:x-15]
+           line = fp.readline()    
+           cnt= cnt+1
+           nodetxt=str(cnt)+','+milisecond+','
+           
+       else: 
+           x=line.index(':')
+           objec=line[0:x]
+           mylist.append(objec)
+           nodetxt=nodetxt+objec+','
+           jo=jo+1
+           line = fp.readline()
+fp.close()
+print("selamat Datang")
+for i in range(len(nestlist)):
+    x=str(nestlist[i])
+    print(x)

@@ -1,0 +1,49 @@
+Wall
+Window
+Chair
+Floor
+Ceiling lamp
+Ceiling
+Door
+Cabinet
+Plant
+DiningTable
+Painting
+Curtain
+Cushion
+Books
+Picture
+Box
+Desk lamp
+Bed
+Bottle
+Pillow
+Flowers
+Armchair
+Sconce
+Night table
+Vase
+Mirror
+Faucet
+Basket
+Plate
+Book
+Shelf
+Outlet
+Sofa
+Towel
+Rug
+Chandelier
+Washbasin
+Coffee table
+Cup
+Toy
+Toilet
+Countertop
+Ottoman
+Drawing
+Bathtube
+Small table
+Candleholder
+Toilet paper
+Bathtub
