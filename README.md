@@ -9,6 +9,6 @@ Spesifikasi:
 4. Alturos Yolo 2.44
 5. EMGU.CV.4.1.0.3420
 6. Microsoft.Msagl.GraphViewerGDI.1.1.3 dan Microsoft.Msagl.Drawing.1.1.3
-7. yolov3.cfg, yolov3.weights, dan coco.names
+7. yolov3.cfg, yolov3.weights dan coco.names
 
 
